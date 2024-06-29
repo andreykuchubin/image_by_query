@@ -46,4 +46,4 @@ RMSE
 
 ### Используемый стек
 Jupyter Notebook
-Python: pandas, numpy, matplotlib, nltk, re, torch, pickle, tensorflow, PIL, transformers, tqdm, sklearn, sentence_transformers.
+Python: pandas, numpy, matplotlib, nltk, torch, pickle, tensorflow, PIL, transformers, tqdm, sklearn, sentence_transformers.
